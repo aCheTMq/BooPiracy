@@ -15,6 +15,7 @@ Mail: just.so@mail.ru
 
 # Description
 A simple tool to download single videos\audio or playlist from Youtube.
+Supported languages: English, Russian.
 
 # License
 GNU General Public License version 3.0 (https://www.gnu.org/licenses/gpl-3.0) or later.
