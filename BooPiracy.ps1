@@ -307,7 +307,7 @@ Function Print-Header() {
     Write-Host "	Dzen: dzen.ru/aCheTMq"
     Write-Host "	Github: github.com/aCheTMq/BooPiracy"
     Write-Host "	Telegram: t.me/aCheTMq"
-    Write-Host "	Donate: https://www.donationalerts.com/r/aCheTMq"
+    Write-Host "	Donate: donationalerts.com/r/aCheTMq"
     Write-Host "	Mail: just.so@mail.ru"
     Write-Host "----------------------------------------------------------------------------------------------------"
     Write-Host
